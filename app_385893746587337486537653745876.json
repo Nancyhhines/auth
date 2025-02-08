@@ -5,9 +5,7 @@
   "usage_limits": {
     "max_app_usage": 350,
     "max_daily_usage": 350,
-    "current_usage": 50,
-    "enforce_limits": true
+    "current_usage": 50
   },
-  "server_url": "https://api.example.com",
   "update_interval": 10
 }
