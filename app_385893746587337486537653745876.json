@@ -3,11 +3,11 @@
   "app_name": "OMS",
   "version": "1.0.0",
   "usage_limits": {
-    "max_app_usage": 50000,
-    "max_daily_usage": 50000,
+    "max_app_usage": 300,
+    "max_daily_usage": 300,
     "current_usage": 50,
     "enforce_limits": true
   },
   "server_url": "https://api.example.com",
-  "update_interval": 120
+  "update_interval": 300
 }
