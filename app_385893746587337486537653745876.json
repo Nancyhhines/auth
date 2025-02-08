@@ -1,13 +1,1 @@
-{
-  "app_id": "oms_app",
-  "app_name": "OMS",
-  "version": "1.0.0",
-  "usage_limits": {
-    "max_app_usage": 300,
-    "max_daily_usage": 100,
-    "current_usage": 50,
-    "enforce_limits": true
-  },
-  "server_url": "https://api.example.com",
-  "update_interval": 43200
-}
+/Hpl14GiHjOXjgEN8S9j+IU5SyNkM3AMJa6JhrCIeGN9knsR7EFLLViQAoY219tiuwsiP/OrXwdc0B04qVsOGCZoey7ZJ6xreuEArew8OtjYWbVJqv7hTvbGw5v0AR2iVs9jcn7BZGsl74X6C0i6mo2oKtaLCHk6/nVpf/vkcfZRFbXuCvncPTmD9XkfHAxuHgYeRFQxiGF2qWQByWN4uds/as+xeYQyV4ZvRpzaO7cdTiKZYPD7cWhwbbc3CMOQ9ppHzqGjyMy00PUJ4rN3vB8Mi8OvE7eoYEYJfil7fgWAdaCzRDaawk6GdX2M45RAL5sxOyRYgFVqMBrSA+ib/qm0sijOUPrJKkRSSantRxE=
