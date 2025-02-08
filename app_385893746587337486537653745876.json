@@ -9,5 +9,5 @@
     "enforce_limits": true
   },
   "server_url": "https://api.example.com",
-  "update_interval": 43200
+  "update_interval": 120
 }
