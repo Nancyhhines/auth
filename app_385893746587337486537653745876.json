@@ -3,8 +3,8 @@
   "app_name": "OMS",
   "version": "1.0.0",
   "usage_limits": {
-    "max_app_usage": 3300,
-    "max_daily_usage": 3300
+    "max_app_usage": 5300,
+    "max_daily_usage": 3600
   },
   "update_interval": 60
 }
